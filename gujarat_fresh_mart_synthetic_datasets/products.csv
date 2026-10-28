@@ -1,0 +1,21 @@
+product_id,product_name,category,price_band
+P001,Rice,Grains,Budget
+P002,Dal,Pulses,Budget
+P003,Cooking Oil,Cooking Essentials,Standard
+P004,Tea,Beverages,Standard
+P005,Sugar,Staples,Budget
+P006,Biscuits,Snacks,Budget
+P007,Milk,Dairy,Standard
+P008,Wheat Flour,Grains,Budget
+P009,Soap,Household,Budget
+P010,Detergent,Household,Standard
+P011,Chickpeas,Pulses,Standard
+P012,Coffee,Beverages,Premium
+P013,Yogurt,Dairy,Standard
+P014,Toothpaste,Personal Care,Standard
+P015,Potatoes,Vegetables,Budget
+P016,Apples,Fruits,Premium
+P017,Salt,Staples,Budget
+P018,Spices,Cooking Essentials,Standard
+P019,Juice,Beverages,Standard
+P020,Noodles,Packaged Food,Budget
